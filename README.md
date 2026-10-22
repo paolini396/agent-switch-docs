@@ -58,5 +58,6 @@ Com dois ou mais ambientes cadastrados, cada um com a sua versão do WebAgent, b
 
 
 Segue abaixo um exemplo utilizando a ferramenta.
+
 https://github.com/user-attachments/assets/3364378f-c9e0-4058-ae84-1c661fc72803
 
