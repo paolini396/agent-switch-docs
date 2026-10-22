@@ -2,6 +2,14 @@
 
 Se você atende clientes que usam o Protheus com versões diferentes do WebAgent, sabe como é chato ficar trocando de uma para outra. O AgentSwitch resolve isso: ele guarda cada versão do WebAgent separada e deixa você alternar entre elas sem conflito.
 
+## Download
+
+| Versão | Data | Sistema | Tamanho | Arquivo |
+| --- | --- | --- | --- | --- |
+| 1.2.1 | 22/10/2026 | Windows | ~63 MB | [AgentSwitch_win_1.2.1_2026.10.22.rar](downloads/AgentSwitch_win_1.2.1_2026.10.22.rar) |
+
+Depois de baixar, extraia o arquivo `.rar` e execute o AgentSwitch.
+
 ## Como funciona
 
 Você cadastra os **ambientes** dos seus clientes uma única vez. Depois, para entrar em qualquer um deles, basta clicar em **Acessar**. O AgentSwitch então:
